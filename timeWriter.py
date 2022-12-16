@@ -1,4 +1,5 @@
 import time
 
 def writetime():
-	print(str(int(time.time())))
+    timeValue = str(int(time.time()))
+	print(timeValue)
